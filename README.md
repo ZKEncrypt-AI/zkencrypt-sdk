@@ -1,4 +1,4 @@
-# ZKEncrypt SDK
+# ZKEncrypt SDKd
 
 The official JavaScript/TypeScript SDK for ZKEncrypt Network - A privacy-preserving AI infrastructure powered by Fully Homomorphic Encryption (FHE).
 
